@@ -1,6 +1,2 @@
-Hello, World.
-<<<<<<< HEAD
-hello, Bangladesh.
-=======
-hi, bangladesh.fx
->>>>>>> repo-5
+this is conflict issue
+hi, every one.
